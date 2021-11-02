@@ -47,3 +47,6 @@ nav ul li {
   display: inline-block;
   margin: 1rem;
 }
+input {
+  display: block;
+}

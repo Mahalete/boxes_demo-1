@@ -20,7 +20,7 @@ const Header = () => {
               <NavLink to="/boxes">Boxes </NavLink>
             </li>
             <li>
-              <NavLink to="/forms">Forms </NavLink>
+              <NavLink to="/form">Form </NavLink>
             </li>
           </ul>
         </nav>
