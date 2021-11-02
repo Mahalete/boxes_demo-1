@@ -23,6 +23,13 @@ const Contacts = () => {
     </div>
   );
 };
+const Forms = () => {
+  return (
+    <div>
+      <h1>This is the FORMS page</h1>
+    </div>
+  );
+};
 const Main = () => {
   return (
     <main>
@@ -31,6 +38,7 @@ const Main = () => {
         <Route path="/about" component={About} />
         <Route path="/contacts" component={Contacts} />
         <Route path="/boxes" component={Boxes} />
+        <Route path="/forms" component={Forms} />
       </Switch>
     </main>
   );

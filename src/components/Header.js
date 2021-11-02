@@ -19,6 +19,9 @@ const Header = () => {
             <li>
               <NavLink to="/boxes">Boxes </NavLink>
             </li>
+            <li>
+              <NavLink to="/forms">Forms </NavLink>
+            </li>
           </ul>
         </nav>
       </div>
